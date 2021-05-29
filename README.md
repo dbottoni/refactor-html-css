@@ -2,9 +2,18 @@
 
 Horiseon Home Page
 
+## Purpose
+
+A website 
+
 ## Application description
 
 Landing page for Horiseon marketing and management agency
+
+## Built with
+
+* HTML
+* CSS
 
 ## Screenshots
 
@@ -14,3 +23,6 @@ Landing page for Horiseon marketing and management agency
 ## Link to Deployed Application
 
 https://dbottoni.github.io/refactor-html-css/
+
+## Contribution
+Made by Dana Bottoni

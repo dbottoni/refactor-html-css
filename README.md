@@ -4,7 +4,7 @@ Horiseon Home Page
 
 ## Purpose
 
-A website 
+A website for Horiseon offering tips on search engine optimization, online reputation management, and social media marketing.
 
 ## Application description
 
@@ -12,8 +12,8 @@ Landing page for Horiseon marketing and management agency
 
 ## Built with
 
-* HTML
-* CSS
+- HTML
+- CSS
 
 ## Screenshots
 
@@ -25,4 +25,5 @@ Landing page for Horiseon marketing and management agency
 https://dbottoni.github.io/refactor-html-css/
 
 ## Contribution
+
 Made by Dana Bottoni
